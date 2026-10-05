@@ -1,7 +1,7 @@
 ## Hi there , I am Manpreet Kaur
 
 # 💫 About Me:
-🌱 Currently learning React.js, JavaScript & Backend Development<br>💡 Interested in building real-world web applications<br>🧠 Currently looking for opportunities in Web Development and internships<br>🛠️ Experienced with MERN Stack projects<br>📚 Always learning and exploring new technologies
+🌱 Currently learning Node.js, React.js, JavaScript & Backend Development<br>💡 Interested in building real-world web applications<br>🧠 Currently looking for opportunities in Web Development and internships<br>🛠️ Experienced with MERN Stack projects<br>📚 Always learning and exploring new technologies
 
 
 ## 🌐 Socials:
